@@ -16,3 +16,10 @@ nav ul{
     flex-direction: row;
     gap: 64px
 }
+
+.vertical ul {
+    display: flex;
+    flex-direction: column; 
+    gap: 16px; 
+    list-style-type: none; 
+}
